@@ -1,0 +1,222 @@
+/* Réinitialisation basique */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body et police générale */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #e0d5c8;
+    color: #3b2a2a;
+    text-align: center;
+}
+
+/* Conteneur de l'image */
+.header {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.header-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.intro {
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+.intro h1 {
+    font-size: 3em;
+    color: #1a1a1a;
+}
+
+.intro p {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+.search-container {
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    padding: 12px;
+    width: 80%;
+    max-width: 600px;
+    font-size: 1.2em;
+    border-radius: 8px;
+    border: 2px solid #8c6e58;
+    background-color: #f4e3c1;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+    border-color: #3b2a2a;
+    background-color: #fff;
+}
+
+.livres-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.livre {
+    width: 90%;
+    max-width: 900px;
+    margin: 20px 0;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 2px solid #8c6e58;
+    display: flex;
+    flex-direction: column;
+    position: relative; /* Ajouté pour permettre le positionnement du bandeau */
+}
+
+.livre:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+/* Styles pour les livres avec mention spéciale */
+.livre.mention {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Bandeau mention spéciale (on enlève le absolute pour qu'il prenne de la place naturellement) */
+.bandeau {
+    width: 100%;
+    background: #d9534f;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 12px 0;
+    font-size: 16px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+/* Contenu principal du livre (image + infos) */
+.livre .contenu {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+
+.livre img {
+    width: 150px;
+    height: 200px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+
+.livre .details {
+    text-align: left;
+    flex: 1;
+}
+
+.livre h3 {
+    font-size: 1.4em;
+    font-family: 'Times New Roman', serif;
+}
+
+.livre p {
+    font-size: 1em;
+    color: #6a4c3c;
+    margin: 5px 0;
+}
+
+.livre .resume {
+    white-space: pre-line;
+}
+
+/* Section des avis */
+.livre .avis {
+    padding: 15px;
+    background-color: #f4e3c1;
+    border-top: 2px solid #8c6e58;
+}
+
+.livre .avis .avis-case {
+    background-color: #fff;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 1em;
+    color: #3b2a2a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.infos-livre {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 15px;
+}
+
+.image img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.separateur {
+    width: 2px;
+    height: 100%;
+    background-color: #8c6e58;
+}
+
+.details {
+    flex: 1;
+    text-align: left;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+.livre h3 {
+    font-family: 'Playfair Display', serif; /* Police élégante */
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 35px; /* Plus d'espace sous le titre */
+    margin-top: 15px;
+    letter-spacing: 1px;
+}
+
+
+
+

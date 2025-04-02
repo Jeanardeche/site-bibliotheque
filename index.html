@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bibliothèque</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <img src="images/en_tete.jpg" alt="Bibliothèque dans la forêt" class="header-image">
+        <div class="overlay"></div>
+    </header>
+
+    <section class="intro">
+        <h1>Bienvenue à la Bibliothèque</h1>
+        <p>Cherche des livres, lis-les et donne-nous ton avis dans le petit livre prévu à cet effet! <br> N'oublie pas ton nom car je rajouterai ton commentaire sur le site. 
+        </p>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Chercher un livre..." onkeydown="verifierEntree(event)">
+            <span class="search-icon" onclick="rechercher()">
+                <img src="images/loupe.png" alt="Loupe" style="width: 20px; height: 20px;">
+            </span>
+        </div>
+    </section>
+    
+    <section id="resultats" class="livres-list">
+        <!-- Les livres seront insérés ici par JavaScript -->
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
