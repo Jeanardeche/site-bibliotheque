@@ -13,6 +13,12 @@ fetch('data/livres.json')
 function rechercher() {
     let query = document.getElementById('search').value.toLowerCase();
     
+    if (query === "mention spéciale") {
+        let resultats = livres.filter(livre => livre.mention_speciale);
+        afficherLivres(resultats);
+        return;
+    }    
+
     if (query.length > 0) {
         let resultats = livres.filter(livre => {
             return livre.titre.toLowerCase().includes(query) ||
@@ -102,7 +108,7 @@ function afficherLivres(resultats) {
                 <div class="separateur"></div>
                 <div class="details">
                     <h3>${livre.titre}</h3>
-                    <p><strong>Auteur:</strong> ${livre.auteur}</p>
+                    ${livre.auteur && livre.auteur.trim() !== "" ? `<p><strong>Auteur:</strong> ${livre.auteur}</p>` : ''}
                     <p><strong>Emplacement:</strong> ${emplacement}</p>
                     <p><strong>Résumé:</strong> <span class="resume-court">${resumeCourt}</span><span class="resume-complet" style="display: none;">${resumeComplet}</span>${voirPlus}</p>
                 </div>

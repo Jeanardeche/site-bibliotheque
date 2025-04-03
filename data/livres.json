@@ -24,7 +24,7 @@
         "id": 3,
         "titre": "Le Quidditch à travers les âges",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/quidditch.jpeg",
         "mots_cles": [
             "Quidditch",
@@ -36,7 +36,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Un guide détaillé sur le sport emblématique de Poudlard, le Quidditch, avec une histoire fascinante sur son évolution et ses règles."
+        "resume": "S'il vous est jamais arrivé de vous demander quelle est l'origine du Vif d'or, comment les Cognards sont apparus ou pourquoi les Wigtown Wanderers portent l'image d'un couteau de boucher sur leurs robes, vous devez lire Le Quidditch à travers les âges."
     },
     {
         "id": 4,
@@ -50,17 +50,18 @@
             "sorcellerie",
             "fantastique",
             "animal",
-            "harry"
+            "harry",
+            "poudlard"
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Un manuel sur les créatures magiques de l'univers de Harry Potter, écrit par le magizoologiste Norbert Dragonneau."
+        "resume": "Le fabuleux bestiaire du Magizoologiste Norbert Dragonneau. Cet ouvrage rassemble plus de quatre-vingts espèces fantastiques et dévoile les six animaux restés secrets depuis le voyage aux Etats-Unis de l'explorateur. Le Boursouf, l'Oiseau-Tonerre ou le Womatou n'auront plus aucun secret pour les moldus !"
     },
     {
         "id": 5,
         "titre": "Les Contes de Beedle le Barde",
         "auteur": "J.K. Rowling",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/beedle.jpeg",
         "mots_cles": [
             "contes",
@@ -71,7 +72,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Les légendes et contes des sorciers"
+        "resume": "Les contes de Beedle le Barde sont les cinq contes de fées qui bercent l'enfance des jeunes sorciers. Chacun de ces contes a sa magie particulière qui enchantera les lecteurs et les fera tour à tour rire ou frissonner.\nLes commentaires passionnants et malicieux du professeur Albus Dumbledore qui accompagnent chaque récit seront appréciés des sorciers comme des Moldus. Le professeur y donne de nombreuses clefs et y dévoile, par la même occasion, maint détail de la vie à Poudlard.\nUn ouvrage magique à garder comme un trésor, enrichi des illustrations originales de JK Rowling."
     },
     {
         "id": 6,
@@ -161,7 +162,7 @@
         "id": 11,
         "titre": "Terre Dragon: I.Le souffle des pierres",
         "auteur": "Érik L'Homme",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/terre_dragon1.jpg",
         "mots_cles": [
             "Terre",
@@ -238,7 +239,7 @@
         "id": 14,
         "titre": "Terre Dragon: II.Le chant du fleuve",
         "auteur": "Érik L'Homme",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/terre_dragon2.jpeg",
         "mots_cles": [
             "Terre",
@@ -257,7 +258,7 @@
         "id": 15,
         "titre": "Terre Dragon: III.Les sortilèges du vent",
         "auteur": "Érik L'Homme",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/terre_dragon3.jpeg",
         "mots_cles": [
             "Terre",
@@ -317,7 +318,7 @@
         "id": 19,
         "titre": "Les Misérables",
         "auteur": "Victor Hugo",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/LM.jpeg",
         "mots_cles": [
             "misérables",
@@ -328,7 +329,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "y en a pour longtemps si j'écris ça"
+        "resume": "Rien que d'écrire le résumé de ce livre encombrerait tout un data center. Pour des soucis écologiques, je préfère en rester là."
     },
     {
         "id": 19,
@@ -475,34 +476,40 @@
         "id": 25,
         "titre": "Ma dernière chance s'appelle Billy D",
         "auteur": "Erin Lange",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/billyD.jpeg",
-        "mots_cles": [],
+        "mots_cles": [
+            "trisomique",
+            "trisomie",
+            "battre"
+        ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Dans la vie, il faut se battre. Dane Washington ne le sait que trop bien. A la moindre occasion, ses poings le démangent et ils parlent pour lui. Jusqu'à présent, ses bons résultats au lycée lui ont évité les plus gros ennuis. Seulement, il n'a plus droit à l'erreur : encore une bagarre et ce sera l'exclusion. Mais la violence, Dane ne parvient pas à la contrôler. Sa dernière chance s'appelle Billy D., un garçon qui vient de s'installer à côté de chez lui avec sa mère. Billy D. est trisomique, il n'a pas les moyens de se défendre, et certains en profitent. Si Dane acceptait d'être son ambassadeur au lycée, cela pourrait lui offrir le salut. Billy D. a une autre mission pour Dane : il voudrait qu'il l'aide à retrouver son père. Leur seul indice : un atlas des Etats-Unis, et des énigmes à toutes les pages ou presque."
     },
     {
         "id": 26,
         "titre": "Le chevalier au bouclier vert",
         "auteur": "Odile Weulersse",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/chevalierbucliervert.jpeg",
         "mots_cles": [
             "chevalier",
             "vert",
             "moyen-âge",
-            "sorcière"
+            "sorcière",
+            "Thibaut",
+            "Éléonore"
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Pour  avoir sauvé des brigands la fille du comte de Blois, l'écuyer Thibaut de Sauvigny est adoubé chevalier. Amoureux de la belle,  sa pauvreté ne lui permet pas de l'épouser. Mais une nouvelle menace guette : Eléonore comprend que sa propre soeur veut sa mort ! cette fois, la seule alliée des jeunes gens sera la fée Hadelize. S'ils la trouvent à temps.."
     },
     {
         "id": 27,
         "titre": "Histoires comme ça",
         "auteur": "Rudyard Kipling",
-        "emplacement": "inconnu",
+        "emplacement": "Enfance",
         "image": "images/histoirescommeça.jpeg",
         "mots_cles": [
             "animaux",
@@ -510,13 +517,13 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Comment la baleine eut un gosier, comment le chameau eut une bosse, comment on écrivit le première lettre et comment il s'en suivit la naissance de l'alphabet. A travers le regard tendre et érudit de Rudyard Kipling, découvrons comment le monde est devenu monde, et pourquoi le chat, lui, va tout seul !"
     },
     {
         "id": 28,
         "titre": "L'EncycLOUPédie",
         "auteur": "Hélène Maurel",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/encycloupedie.jpeg",
         "mots_cles": [
             "loup",
@@ -540,7 +547,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Société très fermée recherche esprits logiques et cœurs aventureux.\nÀ la lecture de cette étrange petite annonce, Gustave Eiffel, ingénieur fraîchement diplômé, tente sa chance. Le voici recruté par la S.S.S.S.S.S. : la Société Super Secrète des Savants en Sciences Surnaturelles, en charge de la protection du pays contre les créatures fantastiques. Après une formation musclée au combat, il rejoint une usine de métallurgie en tant que contremaître pour mener discrètement sa première enquête. On soupçonne en effet la présence d’un dangereux phénix, qui pourrait renaître de ses cendres et incendier la ville. Mais entre des ouvriers peu loquaces et un patron mystérieux, Gustave devra ruser pour découvrir la terrible vérité… Une enquête trépidante sur fond de Révolution industrielle !"
     },
     {
         "id": 30,
@@ -652,7 +659,7 @@
         "id": 35,
         "titre": "Percy Jackson -  le voleur de foudre",
         "auteur": "Rick Riordan",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/percyjackson.jpeg",
         "mots_cles": [
             "persé",
@@ -664,7 +671,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Percy Jackson n'est pas un lycéen comme les autres. Sa prof d'histoire est en fait un terrible monstre mythologique ! Et les dieux du mont Olympe entrent dans sa vie, ici et maintenant, en plein New-York. Ils l'accusent d'avoir volé l'éclair de Zeus. Dans cette succession de catastrophes, une seule bonne nouvelle : Percy se découvre peu à peu des pouvoirs extraordinaires..."
     },
     {
         "id": 36,
@@ -685,7 +692,7 @@
         "id": 37,
         "titre": "Le petit chaperon vert",
         "auteur": "Grégoire Solotareff et Nadja",
-        "emplacement": "inconnu",
+        "emplacement": "Enfance",
         "image": "images/petittchaperonvert.jpeg",
         "mots_cles": [
             "chaperon rouge",
@@ -721,14 +728,15 @@
         "mots_cles": [
             "futur",
             "dystopie",
-            "terre écologie",
+            "terre",
+            "écologie",
             "dictature",
             "rebellion",
             "rebelles"
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "\" - À vous entendre, on croirait que Suburba est une prison ! Vous n'avez pas tout ce qu'il faut peut-être ? Des cinémas, des salles de concert, des stades et je ne sais quoi encore... \". Réfugiés dans un monde souterrain depuis 2028 pour échapper aux grandes pollutions terrestres, les habitants de Suburba sont pour la plupart parfaitement adaptés à cette vie organisée pour eux. Certains pourtant s'interrogent: est-il vraiment impossible de retourner vivre à l'air libre ?"
     },
     {
         "id": 40,
@@ -830,7 +838,7 @@
         "id": 45,
         "titre": "Océan",
         "auteur": "Thierry Duc",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/oceanthierry.jpeg",
         "mots_cles": [
             "mer",
@@ -845,13 +853,13 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "L'humanité est en proie aux désordres écologiques, climatiques et au chaos géopolitique qui en résulte. C’est dans ce contexte qu’un petit groupe d’amis, mené par Marc Levoisin, convoie un voilier depuis l’Asie vers San Francisco. Mais un concours de circonstances les mêle bien malgré eux à une entreprise clandestine, Océan, inouïe dans son ampleur et dans ses ambitions. Bientôt, sous l’apparence altruiste et généreuse du discours des Fondateurs d’Océan, des questions se posent. Le projet qu’ils affichent est-il sincère ?\nMarc et la belle Tanya vont devoir plonger dans une périlleuse enquête pour découvrir la terrible vérité, une enquête qui interrogera leurs convictions les plus profondes sur le Bien et le Mal. Le plan secret des Fondateurs, terrible, n’est-il pas finalement la seule solution pour sauver une humanité aux abois ? Ils n’auront peut-être pas à trancher, car le sort de l’espèce humaine pourrait basculer de la façon la plus inattendue. <br>\nThierry DUC, après « Hapoor », livre ici son deuxième roman, une dystopie remarquable où le lecteur est entraîné dans un monde imaginaire et dans des aventures haletantes, en même temps que sont abordées les questions les plus fondamentales sur notre devenir collectif."
     },
     {
         "id": 46,
         "titre": "Sécher les couillons",
         "auteur": "Daniel Crozes",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/sechercouillon.jpeg",
         "mots_cles": [
             "idiot",
@@ -867,7 +875,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Et il y a là de quoi enrichir un registre souvent prosaïque limité à « connard, enfoiré ou enc…» pour des jurons plus savoureux qui ouvrent vers des univers et des histoires propres aux Aveyronnais. Très pratiques pour les fêtes votives quand l’abus d’anisette produit tous ses effets…"
     },
     {
         "id": 47,
@@ -875,10 +883,13 @@
         "auteur": "Riad Sattouf",
         "emplacement": "BD",
         "image": "images/jeuneacteur1.jpeg",
-        "mots_cles": [],
+        "mots_cles": [
+            "cinéma",
+            "vincent lacoste"
+        ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "L’histoire vraie d’un adolescent anonyme devenu l’un des acteurs les plus talentueux de sa génération !\nEn 2008, Riad Sattouf réalise son premier film, 'Les Beaux Gosses'. Il choisit comme premier rôle le jeune Vincent Lacoste, timide et complexé, qui n’avait jamais imaginé être acteur. Le collégien de 14 ans se retrouve alors propulsé dans le monde secret, fascinant et parfois flippant du cinéma !"
     },
     {
         "id": 48,
@@ -900,7 +911,7 @@
         "id": 49,
         "titre": "Hapoor, une pierre d'Afrique",
         "auteur": "Thierry Duc",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/hapoor.jpeg",
         "mots_cles": [
             "éléphant",
@@ -914,7 +925,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "UN BREF EXTRAIT : « Tout en soufflant puissamment l’éléphant ouvrit les oreilles, deux immenses voiles de peau fine. La forme de son oreille droite évoquait à Sarhili le continent africain, tel qu’il l’avait vu sur des cartes. Mais la gauche, elle, était déchirée : il manquait en bas un vaste triangle, une marque que le ranger identifia tout se suite. Il était face à Hapoor, le « bull » légendaire, le mâle dominant de toute la harde d’Addo depuis vingt-quatre ans. » L'HISTOIRE : Dans la réserve d’Addo en Afrique du Sud, Sarhili, le chef des rangers, est à la recherche de lui-même. Hapoor, un éléphant au destin hors du commun, va l’entraîner dans une formidable épopée au coeur de la brousse. L’histoire de l’animal, sa force de caractère et sa fierté exemplaires montreront à Sarhili qu’on peut surmonter les blessures de son enfance. Récit initiatique aussi bien que roman écologique, ce texte parvient à sublimer les nombreux faits historiques dont il s’inspire. Un voyage dans les hautes broussailles du bush, où l’imaginaire, le mythe et la réalité se côtoient sans cesse.<br>\nCe livre m'a été écrit, dédicacé et offert par un ami: Thierry. La seule chose que je ne lui pardonnerai jamais c'est d'avoir écrit trombone avec 2 n dans un livre qui aurait pu être bien (sans cette ignominie!). De lui, on a aussi Océan à la bibliothèque."
     },
     {
         "id": 50,
@@ -958,7 +969,7 @@
         "id": 52,
         "titre": "Le canard coureur indien: votre atout pour un potager sans limaces",
         "auteur": "Damien Dekarz",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/canards.jpeg",
         "mots_cles": [
             "canards",
@@ -980,7 +991,7 @@
         "id": 53,
         "titre": "La permaculture au jardin mois par mois",
         "auteur": "Damien Dekarz",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/permaaujardin.jpeg",
         "mots_cles": [
             "permaculture",
@@ -1001,7 +1012,7 @@
         "id": 54,
         "titre": "La forêt comestible: pour des récoltes abondantes en toute saison",
         "auteur": "Damien Dekarz",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/foretcomestible.jpeg",
         "mots_cles": [
             "potager",
@@ -1028,7 +1039,7 @@
         "id": 55,
         "titre": "Vivre sans argent: les premiers pas vers l'autosuffisance",
         "auteur": "Björn Duval",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/vivresansargent.jpeg",
         "mots_cles": [
             "autonomie",
@@ -1052,7 +1063,7 @@
         "id": 56,
         "titre": "Agrumes résistants au froid à cultiver en pleine terre",
         "auteur": "Olivier Biggio et Bertrand Londeix",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/argrumesrustiques.jpeg",
         "mots_cles": [
             "rustique",
@@ -1630,9 +1641,9 @@
     },
     {
         "id": 83,
-        "titre": "L'Embeille",
+        "titre": "L'Enbeille",
         "auteur": "Éric Simard",
-        "emplacement": "",
+        "emplacement": "Enfance",
         "image": "images/enbeille.jpeg",
         "mots_cles": [
             "abeille",
@@ -1641,7 +1652,9 @@
             "animal"
         ],
         "mention_speciale": false,
-        "avis": [],
+        "avis": [
+            "On est d'accord que quand on fait des livres pour les enfants on peut aussi essayer de leur apprendre les règles d'orthographe? Du genre que avant un b on met un m et pas un n par exemple..."
+        ],
         "resume": "L’enbeille se sent agressée dès qu’on l’approche. Son dard surgit alors du bas de son dos pour piquer… Pourra-t-elle un jour le maîtriser ?"
     },
     {
@@ -1864,7 +1877,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Ils sont dix à avoir reçu l’invitation : des vacances d’été sur l’île du Soldat ! Voilà une proposition à laquelle personne ne saurait résister. Non seulement c’est gratuit, mais l’île a tant fait parler d’elle ! Chacun se demande qui est son nouveau propriétaire – une star d’Hollywood, un milliardaire américain, ou l’Amirauté britannique qui s’y livrerait à des expériences ultrasecrètes ? Aussi, sans vraiment connaître leur hôte, ils accourent volontiers : le médecin, le play-boy, la jeune prof de gym, le juge à la retraite, le général bardé de décorations, la vieille fille grincheuse, le sémillant capitaine, le majordome et sa femme, et M. Davis qui ne s’appelle pas Davis… Qu’ont-ils donc en commun ?\nÀ l’arrivée, cela dit, un par un, tous connaîtront le même sort…\n\nC'est rigolo, en 2020, ils ont changé le titre pour que ça ait l'air moins raciste et ils ont renommé le livre en \"Ils étaient dix\""
+        "resume": "Ils sont dix à avoir reçu l’invitation : des vacances d’été sur l’île du Soldat ! Voilà une proposition à laquelle personne ne saurait résister. Non seulement c’est gratuit, mais l’île a tant fait parler d’elle ! Chacun se demande qui est son nouveau propriétaire – une star d’Hollywood, un milliardaire américain, ou l’Amirauté britannique qui s’y livrerait à des expériences ultrasecrètes ? Aussi, sans vraiment connaître leur hôte, ils accourent volontiers : le médecin, le play-boy, la jeune prof de gym, le juge à la retraite, le général bardé de décorations, la vieille fille grincheuse, le sémillant capitaine, le majordome et sa femme, et M. Davis qui ne s’appelle pas Davis… Qu’ont-ils donc en commun ?\nÀ l’arrivée, cela dit, un par un, tous connaîtront le même sort…\n\nC'est rigolo, en 2020, ils ont changé le titre pour que ça ait l'air moins raciste et ils ont renommé le livre en \"Ils étaient dix\"."
     },
     {
         "id": 97,
@@ -2068,13 +2081,18 @@
     },
     {
         "id": 108,
-        "titre": "Yearbook 2024-2025",
+        "titre": "Yearbook 2023-2024",
         "auteur": "Henri IV",
         "emplacement": "",
         "image": "images/yearbook.jpeg",
         "mots_cles": [
             "henri iv",
-            "lycée"
+            "lycée",
+            "émile",
+            "emile",
+            "Émile",
+            "Emile",
+            "gousseau"
         ],
         "mention_speciale": false,
         "avis": [],

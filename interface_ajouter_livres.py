@@ -143,6 +143,7 @@ root.geometry("800x600")
 root.resizable(True, True)
 
 books = load_books()
+search_results = []
 
 # --- Partie haute : Recherche et liste des livres ---
 
