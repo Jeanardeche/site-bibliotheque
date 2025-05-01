@@ -76,87 +76,111 @@
     },
     {
         "id": 6,
-        "titre": "Ellana",
+        "titre": "Le Pacte des Marchombres, tome 1 : Ellana",
         "auteur": "Pierre Bottero",
-        "emplacement": "Inconnu",
+        "emplacement": "",
         "image": "images/ellana1.jpg",
         "mots_cles": [
             "Ellana",
             "fantasy",
             "magie",
-            "ewilan"
+            "ewilan",
+            "marchombre",
+            "jilano",
+            "mercenaires du chaos",
+            "nillem"
         ],
         "mention_speciale": true,
-        "avis": [
-            "Ils devront être aux côtés des Quête d’Ewilan et des Monde d’Ewilan qu’il faudra malheureusement se procurer dans une seule et même édition."
-        ],
-        "resume": "Ellana, une meuf grave fort défonce tous les méchants"
+        "avis": [],
+        "resume": "Seule survivante d’un groupe de pionniers après l’attaque de Raïs, au nord de l’Empire, une fillette est recueillie par le peuple des Petits. Elle grandit dans la Forêt Maison à l’écart des hommes et décide, à l’adolescence, de partir en quête de ses origines. Sous le nom d’Ellana, elle croise le plus grand des marchombres, le maître Jilano Alhuïn, qui l’initie aux secrets de sa guilde. Son apprentissage est semé d’embûches, de rencontres et d’inimitiés. Au terme d’un voyage jusqu'au Rentaï avec Nillem, autre élève marchombre, Ellana reçoit la Greffe et l’héritage marchombre. Mais des mercenaires du Chaos la traquent…"
     },
     {
         "id": 7,
         "titre": "Le Mystérieux Cercle Benedict",
         "auteur": "Trenton Lee Stewart",
-        "emplacement": "Salle 4, Étagère 1",
+        "emplacement": "",
         "image": "images/mcb0.jpg",
         "mots_cles": [
             "mystère",
             "aventures",
             "énigmes",
-            "intelligents"
+            "intelligents",
+            "sticky",
+            "reynie",
+            "constance",
+            "kate",
+            "curtain",
+            "pension"
         ],
         "mention_speciale": true,
-        "avis": [],
-        "resume": ""
+        "avis": [
+            "Une histoire incroyable avec ces personnages attachants. Le seul truc un peu regrettable et pas très crédible, c'est le pistolet tranquilisant de Milligan. Il pourrait en avoir un vrai et ce serait beaucoup plus cool. Avouez qu'on préfererait des phrases du genre \"Milligan tira deux balles dans la tête de Martina Crowe qui s'effondra\" plutôt que \"Kate lui attacha les baskets à la table et Martina tomba par terre\".<br>Léon"
+        ],
+        "resume": "Orphelin surdoué, Reynie répond à une annonce : on recrute des enfants pour un mystérieux projet. Le garçon passe des examens plus incongrus les uns que les autres au terme desquels il est recruté avec trois autres enfants, orphelins et surdoués comme lui, par un certain Mr Benedict. Celui ci demande à Reynie, Kate, Sticker et Constance d'infiltrer une pension tenue par Mr Curtain, un savant mégalo qu'il soupçonne de mettre au point un système de contrôle des esprits. Les enfants n'ont qu'une seule instruction : se serrer les coudes."
     },
     {
         "id": 8,
         "titre": "Le Mystérieux Cercle Benedict et le Périlleux Voyage",
         "auteur": "Trenton Lee Stewart",
-        "emplacement": "Salle 4, Étagère 2",
+        "emplacement": "",
         "image": "images/mcb0.jpg",
         "mots_cles": [
             "mystère",
             "voyage",
-            "aventure",
+            "aventures",
             "énigmes",
-            "sorcellerie"
+            "bâteau",
+            "bateau",
+            "portugal",
+            "sticky",
+            "reynie",
+            "constance",
+            "kate",
+            "curtain"
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "Les enfants du Cercle Benedict embarquent pour un voyage périlleux, où ils doivent résoudre des énigmes pour sauver des innocents et éviter un complot."
+        "resume": "Les quatre amis se retrouvent dans la ferme où Kate vit désormais avec son père, Milligan. Mr Benedict leur a préparé un voyage dont ils doivent découvrir la destination en résolvant une série d'énigmes. Mais au moment du départ, leur mentor leur fait parvenir un message leur interdisant de quitter la ferme : les enfants sont en danger. Ces derniers décident tout de même de rejoindre Mr Benedict. Les voilà sur un bateau en partance pour le Portugal ! Le capitaine leur remet une lettre selon laquelle Mr Benedict serait prisonnier de Curtain. Et celui-ci serait sur le point de mettre la main sur une mystérieuse plante aux vertus hypnotiques qui lui donnerait tout pouvoir sur l'humanité..."
     },
     {
         "id": 9,
         "titre": "Le Mystérieux Cercle Benedict et le Dilemme du Prisonnier",
         "auteur": "Trenton Lee Stewart",
-        "emplacement": "Salle 4, Étagère 3",
+        "emplacement": "",
         "image": "images/mcb0.jpg",
         "mots_cles": [
             "mystère",
             "prisonnier",
-            "aventure",
-            "énigmes"
+            "aventures",
+            "énigmes",
+            "sticky",
+            "reynie",
+            "constance",
+            "kate",
+            "curtain"
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "Dans ce tome, les membres du Cercle Benedict se retrouvent face à un dilemme moral majeur alors qu'ils tentent de sauver un prisonnier innocente."
+        "resume": "Depuis la création du Mystérieux cercle Benedict, Constance, Kate, Sticky et Reynie ont résolu les énigmes les plus complexes. Pourtant, Mr Benedict ne se lasse pas de leur en soumettre de nouvelles. Selon lui, plus leur jeune esprit sera aiguisé, plus ils auront de chances d'échapper à Mr Curtain. Même dans la maison de Mr Benedict, sous haute protection, les enfants vivent sous la menace constante du redoutable savant. Car ils constituent une précieuse monnaie d'échange : s'il parvenait à les kidnapper, Mr Curtain pourrait exiger, en guise de rançon, de récupérer son Murmureur. Alors, il règnerait sur le monde."
     },
     {
         "id": 10,
         "titre": "L’Enfance Extraordinaire de Nicholas Benedict",
         "auteur": "Trenton Lee Stewart",
-        "emplacement": "Salle 4, Étagère 4",
+        "emplacement": "",
         "image": "images/mcb0.jpg",
         "mots_cles": [
             "Nicholas Benedict",
             "mystère",
             "enfance",
             "aventure",
-            "énigmes"
+            "énigmes",
+            "fortune",
+            "collum"
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "L'enfance de Nicholas Benedict est marquée par des événements extraordinaires qui vont le mener à découvrir ses talents et à résoudre des mystères intrigants."
+        "resume": "Nicholas Benedict, 9 ans, a beaucoup de problèmes pour un enfant de son âge. Il est orphelin, affublé d'un nez qui ressemble à un concombre, et il souffre de narcolepsie. Cette maladie le contraint à une vigilance de chaque instant : il suffit qu'il se laisse submerger par ses émotions pour s'endormir brusquement. Or, Nicholas vient d'être admis dans un nouvel orphelinat où une bande de garçons cruels, surnommée les Scorpions, fait régner la loi. Pour les affronter, il n'a qu'une arme : son intelligence hors du commun."
     },
     {
         "id": 11,
@@ -181,42 +205,48 @@
     },
     {
         "id": 12,
-        "titre": "A comme Association - Tome 1",
-        "auteur": "Érik L'Homme",
-        "emplacement": "Salle 6, Étagère 1",
-        "image": "images/a_comme_association_1.jpg",
+        "titre": "Harry Potter et l'Enfant Maudit",
+        "auteur": "J. K. Rowling",
+        "emplacement": "",
+        "image": "images/harrypotter8.jpeg",
         "mots_cles": [
-            "A comme Association",
-            "mystère",
-            "aventure",
-            "fantasy"
+            "harry potter",
+            "8",
+            "pièce",
+            "théâtre"
         ],
-        "mention_speciale": true,
-        "avis": [],
-        "resume": "Un groupe d'adolescents se retrouve impliqué dans des mystères et des aventures impliquant une organisation secrète."
+        "mention_speciale": false,
+        "avis": [
+            "On est tous assez d'accord sur le fait que ce livre est moins bien que les 7 précédents. Léon"
+        ],
+        "resume": "Dix-neuf ans plus tard.<br>\nÊtre Harry Potter n'a jamais été facile et ne l'est pas davantage depuis qu'il travaille au cœur des secrets du ministère de la Magie. Marié et père de trois enfants, Harry se débat avec un passé qui refuse de le laisser en paix, tandis que son fils Albus affronte le poids d'un héritage familial dont il n'a jamais voulu. Quand passé et présent s'entremêlent dangereusement, père et fils se retrouvent face à une dure vérité : les ténèbres surviennent parfois des endroits les plus inattendus."
     },
     {
         "id": 13,
-        "titre": "A comme Association - Tome 8",
-        "auteur": "Érik L'Homme",
-        "emplacement": "Salle 6, Étagère 8",
-        "image": "images/a_comme_association_1.jpg",
+        "titre": "Le Pacte des Marchombres, tome 2 : Ellana l'envol ",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ellana2.jpeg",
         "mots_cles": [
-            "A comme Association",
-            "mystère",
-            "aventure",
-            "fantasy"
+            "Ellana",
+            "fantasy",
+            "magie",
+            "ewilan",
+            "marchombre",
+            "jilano",
+            "mercenaires du chaos",
+            "nillem"
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "Dans ce tome, l'équipe d'A comme Association affronte de nouveaux dangers et résout des énigmes plus complexes que jamais."
+        "resume": "Encore apprentie marchombre, Ellana est chargée par Jilano, son maître, d'une mission à haut risque : escorter une caravane au chargement précieux et mystérieux.\nMais au fil de ses rencontres, Ellana peine à identifier ses véritables ennemis, la voie tend à se dérober devant elle et les choix qui engagent sa loyauté et ses sentiments se révèlent périlleux.\nDans ce deuxième tome, le lecteur découvre les multiples épreuves, physiques autant que spirituelles, qui contribuent à forger l'âme marchombre d'Ellana.\nPierre Bottero nous invite à pénétrer dans une guilde aux pouvoirs extraordinaires mais à la cohésion fragile, à assister à l'envol d'Ellana Caldin et à mesurer son insatiable goût pour la liberté..."
     },
     {
         "id": 13,
         "titre": "Harry Potter et la chambre des secrets - Tome 2",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter2.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -230,10 +260,8 @@
             "secret"
         ],
         "mention_speciale": true,
-        "avis": [
-            ""
-        ],
-        "resume": "à mettre"
+        "avis": [],
+        "resume": "Harry Potter fait une deuxième rentrée fracassante en voiture volante à l'école des sorciers. Cette deuxième année ne s'annonce pas de tout repos… surtout depuis qu'une étrange malédiction s'est abattue sur les élèves. Entre les cours de potion magique, les matchs de quidditch et les combats de mauvais sorts, Harry trouvera-t-il le temps de percer le mystère de la Chambre des Secrets ? Un livre magique pour sorciers et sorcières confirmés !"
     },
     {
         "id": 14,
@@ -277,7 +305,7 @@
         "id": 17,
         "titre": "Itawapa",
         "auteur": "Xavier-Laurent Petit ",
-        "emplacement": "je sais pas",
+        "emplacement": "",
         "image": "images/itawapa.jpeg",
         "mots_cles": [
             "itawapa",
@@ -335,8 +363,8 @@
         "id": 19,
         "titre": "Harry Potter et le prisonnier d'Azkaban - Tome 3",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter3.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -352,14 +380,14 @@
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "à mettre"
+        "resume": "Sirius Black, le dangereux criminel qui s'est échappé de la forteresse d'Azkaban, recherche Harry Potter.\nC'est donc sous bonne garde que l'apprenti sorcier fait sa troisième rentrée.\nAu programme : des cours de divination, la fabrication d'une potion de ratatinage, le dressage des hippogriffes...<br>\nMais Harry est-il vraiment à l'abri du danger qui le menace ?"
     },
     {
         "id": 20,
         "titre": "Harry Potter a la croupe en feu - Tome 4",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter4.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -378,14 +406,14 @@
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "à mettre"
+        "resume": "Après un horrible été chez les Dursley, Harry Potter entre en quatrième année au collège de Poudlard. À quatorze ans, il voudrait simplement être un jeune sorcier comme les autres, retrouver ses amis Ron et Hermione, assister avec eux à la Coupe du Monde de Quidditch, apprendre de nouveaux sortilèges et essayer des potions inconnues. Une grande nouvelle l'attend à son arrivée : la tenue à Poudlard d'un tournoi de magie entre les plus célèbres écoles de sorcellerie. Déjà les spectaculaires délégations étrangères font leur entrée... Harry se réjouit. Trop vite. Il va se trouver plongé au cœur des événements les plus dramatiques qu'il ait jamais eu à affronter."
     },
     {
         "id": 21,
         "titre": "Harry Potter et l'ordre du Phœnix - Tome 5",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter5.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -402,14 +430,14 @@
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "à mettre"
+        "resume": "À quinze ans, Harry entre en cinquième année à Poudlard, mais il n'a jamais été si anxieux. L'adolescence, la perspective des examens et ces étranges cauchemars... Car Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom est de retour. Le ministère de la Magie semble ne pas prendre cette menace au sérieux, contrairement à Dumbledore. La résistance s'organise alors autour de Harry qui va devoir compter sur le courage et la fidélité de ses amis de toujours..."
     },
     {
         "id": 23,
         "titre": "Harry Potter et les reliques de la mort - Tome 7",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter7.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -426,14 +454,14 @@
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "à mettre"
+        "resume": "Cette année, Harry a dix-sept ans et ne retourne pas à Poudlard. Avec Ron et Hermione, il se consacre à la dernière mission confiée par Dumbledore. Mais le Seigneur des Ténèbres règne en maître. Traqués, les trois fidèles amis sont contraints à la clandestinité. D'épreuves en révélations, le courage, les choix et les sacrifices de Harry seront déterminants dans la lutte contre les forces du Mal."
     },
     {
         "id": 24,
         "titre": "Harry Potter et le Prince de sang-mêlé - Tome 6",
         "auteur": "J.K. Rowling",
-        "emplacement": "Inconnu",
-        "image": "images/hp_tome1.jpg",
+        "emplacement": "",
+        "image": "images/harrypotter6.jpeg",
         "mots_cles": [
             "Harry Potter",
             "magie",
@@ -451,7 +479,7 @@
         ],
         "mention_speciale": true,
         "avis": [],
-        "resume": "à mettre"
+        "resume": "Dans un monde de plus en plus inquiétant, Harry se prépare à retrouver Ron et Hermione. Bientôt, ce sera la rentrée à Poudlard, avec les autres étudiants de sixième année. Mais pourquoi Dumbledore vient-il en personne chercher Harry chez les Dursley? Dans quels extraordinaires voyages au cœur de la mémoire va-t-il l'entraîner?"
     },
     {
         "id": 24,
@@ -503,7 +531,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Pour  avoir sauvé des brigands la fille du comte de Blois, l'écuyer Thibaut de Sauvigny est adoubé chevalier. Amoureux de la belle,  sa pauvreté ne lui permet pas de l'épouser. Mais une nouvelle menace guette : Eléonore comprend que sa propre soeur veut sa mort ! cette fois, la seule alliée des jeunes gens sera la fée Hadelize. S'ils la trouvent à temps.."
+        "resume": "Pour  avoir sauvé des brigands la fille du comte de Blois, l'écuyer Thibaut de Sauvigny est adoubé chevalier. Amoureux de la belle,  sa pauvreté ne lui permet pas de l'épouser. Mais une nouvelle menace guette : Eléonore comprend que sa propre soeur veut sa mort ! cette fois, la seule alliée des jeunes gens sera la fée Hadelize. S'ils la trouvent à temps..."
     },
     {
         "id": 27,
@@ -584,9 +612,9 @@
         ],
         "mention_speciale": false,
         "avis": [
-            "Une série de 4 BD avec de très beaux dessins."
+            "Les dessins sont assez jolis"
         ],
-        "resume": ""
+        "resume": "Au XIXème siècle, d'intrépides explorateurs repoussent sans cesse les limites de l'inconnu. Avides de nouvelles découvertes, ils tournent leurs regards vers les étoiles...<br>\n\n1869 : La conquête de l'espace commence !"
     },
     {
         "id": 32,
@@ -604,10 +632,8 @@
             "séraphin"
         ],
         "mention_speciale": false,
-        "avis": [
-            "Une série de 4 BD avec de très beaux dessins."
-        ],
-        "resume": ""
+        "avis": [],
+        "resume": "Nos héros, qui ont échappé de justesse aux hommes de Bismarck en embarquant dans l'éthernef, voient le château s'éloigner sous leurs yeux au fil de leur montée dans le ciel. Les voici sur le point de prouver leur théorie, franchir le mur de l'éther et découvrir l'espace mystérieux et infini. Une avarie va faire de leur rêve le plus fou une réalité, les forçant à se poser sur la face cachée de la Lune. Si le père de Séraphin fera tout pour les ramener vivants sur Terre, le Roi semble caresser d'autres espoirs tandis que Séraphin, lui, veut à en savoir plus sur la disparition de sa mère. La conquête de l'espace s'arrêtera-t-elle à ce premier vol ?"
     },
     {
         "id": 33,
@@ -626,12 +652,8 @@
             "prussien"
         ],
         "mention_speciale": false,
-        "avis": [
-            "Une série de 4 BD avec de très beaux dessins.",
-            "Après le bleu, le rouge!!",
-            "Elle est un peu zarbi cette BD nan?"
-        ],
-        "resume": ""
+        "avis": [],
+        "resume": "1870. En plein dix-neuvième siècle, le sort de la Terre se joue sur Mars ! Dans cette suite de la série à succès Le Château des étoiles , récompensée par de nombreux prix, Séraphin et ses amis sont de retour sur Terre. Après avoir révélé au monde le secret du voyage spatial, ils ont trouvé refuge dans un manoir breton. Mais leur engin volant est désormais l'objet de toutes les convoitises ! Alors que le père de Séraphin est en voyage à Londres, le manoir est cerné par des brumes lourdes de menaces... Spectres, ou espions prêts à tout pour mettre la main sur le précieux engin ? Nouvelles machines, complots internationaux, têtes couronnées, expéditions au-delà de l'espace... La course à l'éther est lancée, et la paix sur Terre est désormais entre les mains de Séraphin et des Chevalier de Mars !"
     },
     {
         "id": 34,
@@ -650,10 +672,8 @@
             "prussien"
         ],
         "mention_speciale": false,
-        "avis": [
-            "Une série de 4 BD avec de très beaux dessins."
-        ],
-        "resume": ""
+        "avis": [],
+        "resume": "Séraphin et ses amis arrivent sur Mars à la recherche du Professeur Dulac et de l'expédition prussienne qui l'a enlevé. Quand ils retrouvent les restes abandonnés de l'expédition précédente, le traître Gudden dévoile son jeu : le père de Séraphin n'est pas sur Mars, il ne l'a jamais été !\nAvide de pouvoir, Gudden les a manipulés pour rapporter le maximum d'etherite sur Terre. Une rixe éclate entre Gudden et Séraphin. Assommé, celui-ci se réveille seul sur Mars... abandonné de ses compagnons !"
     },
     {
         "id": 35,
@@ -677,7 +697,7 @@
         "id": 36,
         "titre": "La longue marche des dindes",
         "auteur": "Kathleen Kaar",
-        "emplacement": "inconnu",
+        "emplacement": "",
         "image": "images/marchedesdindes.jpeg",
         "mots_cles": [
             "cow boy",
@@ -686,7 +706,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Au XIXe siècle, après avoir quadruplé son CE1 à 15 ans, Simon se voit refuser l'entrée en CE2 et doit déployer ses ailes. Aussi, le soir même de cette mauvaise nouvelle, lorsqu'il apprend que les dindes sur pattes valent 20 fois plus à Denvers que chez lui, Denvers étant distant de 1000 Km, il décide d'y convoyer un troupeau de 1000 têtes alors devenu son fond de commerce. Le désert, les rocheuses et les indiens laisseront-ils passer cette étrange caravane ? La fortune l'attend-elle à Denvers ?"
     },
     {
         "id": 37,
@@ -708,7 +728,7 @@
         "id": 38,
         "titre": "Préviens pas la police !",
         "auteur": "Sophie Dieuaide",
-        "emplacement": "romans policiers",
+        "emplacement": "Romans policiers",
         "image": "images/previenspaspolice.jpeg",
         "mots_cles": [
             "roman policier",
@@ -717,7 +737,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Qui enlève les chiens des concours canins ? Après Ursule le teckel et tous les autres disparus, qui sera la prochaine victime ? Même si son enquête ne se déroule jamais comme elle la prévu, aidée de son ami Baptiste. Chloé est bien décidée à traquer le ravisseur !"
     },
     {
         "id": 39,
@@ -740,7 +760,7 @@
     },
     {
         "id": 40,
-        "titre": "Les robots",
+        "titre": "Le Cycle des Robots, Tome 1 : Les robots",
         "auteur": "Isaac Asimov",
         "emplacement": "",
         "image": "images/robots.jpeg",
@@ -752,7 +772,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "Susan Calvin est robopsychologue à l'United States Robots, Inc. Née en 1982, elle a aujourd'hui 75 ans. Ce livre relate ses souvenirs sur l'évolution du robot dans l'histoire humaine, depuis Robbie qui, en 1996, fut vendu comme bonne d'enfants jusqu'à Byerley qui devient président de la Fédération mondiale terrestre en 2044.<br>\nA travers ces récits, on voit comment le robot, d'abord esclave soumis à l'homme, parvient peu à peu à être son égal, avant de devenir son maître.\nLes souvenirs du Dr Calvin forment un livre au charme désuet qui fait revivre l'aube du XXIème siècle, époque où l'homme existait encore indépendamment de son compagnon de métal, le robot."
     },
     {
         "id": 41,
@@ -776,15 +796,12 @@
             "neige"
         ],
         "mention_speciale": true,
-        "avis": [
-            "Top top top, regardez Itawapa si ça vous a plus",
-            "J'aime trop ce livre"
-        ],
-        "resume": ""
+        "avis": [],
+        "resume": "Quelques empreintes de pattes dans la neige, une carcasse de daim abandonnée un peu plus loin… et Felitsa avait compris en un éclair à qui elle avait affaire.\nC’était bel et bien une tigresse que sa mère et elle venaient de repérer. Et à y regarder de plus près, une tigresse qui attendait des petits. En dépit de la fatigue et de la température glaciale, Felitsa ne regrettait plus d’avoir accompagné sa mère dans sa tournée d’inspection.<br>\nAlissa était garde forestière au bout du bout de la taïga russe, une zone de trafic intense avec la Chine voisine et un beau terrain de chasse pour les braconniers.\nDe l’autre côté de la frontière, la dépouille d’un tigre de Sibérie valait des dizaines de milliers de dollars. Si Felitsa et sa mère avaient repéré la tigresse, les braconniers n’allaient pas tarder à faire de même. Il fallait trouver le moyen de sauver sa peau…"
     },
     {
         "id": 42,
-        "titre": "Harry Potter e la camera dei segreti",
+        "titre": "Harry Potter e la Camera dei Segreti",
         "auteur": "J.K. Rowling",
         "emplacement": "Langues",
         "image": "images/hpitalien2.jpeg",
@@ -797,11 +814,11 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "«C’è un complotto, Harry Potter. Un complotto per far succedere le cose più terribili, quest’anno, alla Scuola di Magia e Stregoneria di Hogwarts». <br><br>\n \nA Hogwarts il nuovo anno scolastico s’inaugura all’insegna degli enigmi: strane voci riecheggiano nei corridoi e Ginny, la sorella di Ron, sparisce nel nulla e un incantesimo colpisce i compagni di Harry, uno dopo l'altro, e sembra legato a un antico mistero racchiuso nella tenebrosa Camera dei segreti…\nIl secondo capitolo di uno dei più grandi fenomeni letterari internazionali."
     },
     {
         "id": 43,
-        "titre": "Harry Potter e il prigioniero di Azkaban",
+        "titre": "Harry Potter e il Prigioniero di Azkaban",
         "auteur": "J.K. Rowling",
         "emplacement": "Langues",
         "image": "images/hpitalien3.jpeg",
@@ -815,11 +832,11 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "«Benvenuti sul Nottetempo, mezzo di trasporto di emergenza per maghi e streghe in difficoltà. Allungate la bacchetta, salite a bordo e vi portiamo dove volete».<br><br>\n\nUna terribile minaccia incombe sulla Scuola di Magia e Stregoneria di Hogwarts. Sirius Black, il famigerato assassino, è evaso dalla prigione di Azkaban. È in caccia e la sua preda è proprio a Hogwarts, dove Harry e i suoi amici stanno per cominciare il loro terzo anno. Nonostante la sorveglianza dei Dissennatori la scuola non è più un luogo sicuro, perché al suo interno si nasconde un traditore…\nIl terzo capitolo di uno dei più grandi fenomeni letterari internazionali."
     },
     {
         "id": 45,
-        "titre": "Harry Potter e il calice di fuoco",
+        "titre": "Harry Potter e il Calice di fuoco",
         "auteur": "J.K. Rowling",
         "emplacement": "Langues",
         "image": "images/hpitalien4.jpg",
@@ -832,7 +849,7 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": ""
+        "resume": "«Le sfide saranno tre, distribuite nell’arco dell’anno scolastico, e metteranno alla prova i campioni in molti modi diversi… la loro perizia magica, la loro audacia, i loro poteri deduttivi e, naturalmente, la loro capacità di affrontare il pericolo». <br> <br>\n\nQuesto che avete tra le mani è il volume centrale delle avventure di Harry Potter. Ormai Harry è un mago adolescente, vuole andarsene dalla casa dei Dursley, vuole sognare la Cercatrice di Corvonero per cui ha una cotta tremenda… E poi vuole scoprire di più sulla grande competizione che si terrà a Hogwarts e che non si svolge da cento anni. Harry vuole davvero essere un normale mago di quattordici anni. Ma sfortunatamente non è normale, nemmeno come mago. E stavolta la differenza può essere fatale."
     },
     {
         "id": 45,
@@ -1864,7 +1881,7 @@
         "id": 96,
         "titre": "Dix petits nègres",
         "auteur": "Agatha Christie",
-        "emplacement": "",
+        "emplacement": "Romans policiers",
         "image": "images/10ptitnegres.jpeg",
         "mots_cles": [
             "Ils étaient dix",
@@ -1883,7 +1900,7 @@
         "id": 97,
         "titre": "Le crime de l'Orient-Express",
         "auteur": "Agatha Christie",
-        "emplacement": "",
+        "emplacement": "Romans policiers",
         "image": "images/crimeorientexpress.jpeg",
         "mots_cles": [
             "Hercule Poirot",
@@ -2018,7 +2035,7 @@
         "titre": "Les autodafeurs 1: mon frère est un gardien",
         "auteur": "Marine Carteron",
         "emplacement": "",
-        "image": "",
+        "image": "images/lesautodafeurs1.jpeg",
         "mots_cles": [
             "livres",
             "autodafé",
@@ -2040,7 +2057,7 @@
         "titre": "Les autodafeurs 2: ma sœur est une artiste de guerre",
         "auteur": "Marine Carteron",
         "emplacement": "",
-        "image": "",
+        "image": "images/lesautodafeurs2.jpeg",
         "mots_cles": [
             "livres",
             "autodafé",
@@ -2062,7 +2079,7 @@
         "titre": "Les autodafeurs 3: nous sommes tous des propagateurs",
         "auteur": "Marine Carteron",
         "emplacement": "",
-        "image": "",
+        "image": "images/lesautodafeurs3.jpeg",
         "mots_cles": [
             "livres",
             "autodafé",
@@ -2633,5 +2650,225 @@
             "Je suis le seul à pas aimer le lycée où a enseigné l'auteur?"
         ],
         "resume": "Lucien Sausy (1889-1969) a été agrégé des Lettres et professeur en classe préparatoire au lycée Louis-le-Grand. Sa qualité de latiniste et son talent de pédagogue ont fait de sa grammaire la référence de multiples générations d'étudiants. Complète et pratique, elle s'appuie sur de très nombreux exemples éclairants pour énoncer les règles. Il est aussi l'auteur de plusieurs ouvrages sur la culture antique."
+    },
+    {
+        "id": 141,
+        "titre": "Harry Potter e la Pietra filosofale",
+        "auteur": "J.K. Rowling",
+        "emplacement": "Langues",
+        "image": "images/hpitalien1.jpeg",
+        "mots_cles": [
+            "italien",
+            "harry",
+            "scuola",
+            "italiano",
+            "voldemort"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "«Girando la busta con mano tremante, Harry vide un sigillo di ceralacca color porpora con uno stemma araldico: un leone, un’aquila, un tasso e un serpente intorno a una grossa ‘H’».<br><br>\n\nTutto comincia da qui. Il primo capitolo di uno dei più grandi fenomeni letterari internazionali, il libro che ha fatto leggere milioni di ragazzi e ha unito genitori e figli nella scoperta di un universo fantastico che è già parte dell’immaginario collettivo. <br>\n\nEdizione speciale con contenuti inediti: La mappa di Hogwarts ‒ il glossario ‒ curiosità sui fondatori di Hogwarts"
+    },
+    {
+        "id": 142,
+        "titre": "Harry Potter e l'Ordine della Fenice",
+        "auteur": "J.K. Rowling",
+        "emplacement": "Langues",
+        "image": "images/hpitalien5.jpeg",
+        "mots_cles": [
+            "italien",
+            "harry",
+            "scuola",
+            "italiano",
+            "voldemort"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "«Tu condividi i suoi pensieri e le sue emozioni. Il Preside ritiene che questo non debba continuare. Desidera che io ti insegni a chiudere la mente al Signore Oscuro».<br><br>\n\nIl quinto anno a Hogwarts si annuncia carico di sfide difficili per Harry Potter: Lord Voldemort è tornato. Che cosa succederà ora che il Signore Oscuro è di nuovo in pieno possesso dei suoi terrificanti poteri? Il Ministro della Magia sembra non prendere sul serio questa spaventosa minaccia. Toccherà a Harry organizzare la resistenza, con l’aiuto degli amici di sempre e il tumultuoso coraggio dell’adolescenza."
+    },
+    {
+        "id": 143,
+        "titre": "Harry Potter e il Principe Mezzosangue",
+        "auteur": "J.K. Rowling",
+        "emplacement": "Langues",
+        "image": "images/hpitalien6.jpeg",
+        "mots_cles": [
+            "italien",
+            "harry",
+            "scuola",
+            "italiano",
+            "voldemort"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "«Sospeso nel buio sopra la scuola c’era il vivido teschio verde con la lingua di serpe, il marchio lasciato dai Mangiamorte tutte le volte che entravano in un edificio… tutte le volte che uccidevano…» <br><br>\n\nÈ il sesto anno a Hogwarts e per Harry niente è più come prima. L’ultimo legame con la sua famiglia è troncato, perfino la scuola non è la dimora accogliente di un tempo. Voldemort ha radunato le sue forze e nessuno può più negare il suo ritorno. Harry capisce che è arrivato il momento di affrontare il suo destino. L’ultimo atto si avvicina, sarà all’altezza di questa sfida fatale?"
+    },
+    {
+        "id": 144,
+        "titre": "Harry Potter e i Doni della Morte",
+        "auteur": "J.K. Rowling",
+        "emplacement": "Langues",
+        "image": "images/hpitalien7.jpeg",
+        "mots_cles": [
+            "italien",
+            "harry",
+            "scuola",
+            "italiano",
+            "voldemort"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "«Consegnatemi Harry Potter» proseguì la voce di Voldemort, «e a nessuno verrà fatto del male. Consegnatemi Harry Potter e lascerò la scuola intatta. Consegnatemi Harry Potter e verrete ricompensati».<br><br>\n\nIl confronto finale con Voldemort è imminente, una grande battaglia è alle porte e Harry, con coraggio, compirà ciò che dev’essere fatto. Mai i perché sono stati così tanti e mai come in questo libro si ha la soddisfazione delle risposte. Ogni pezzo del puzzle torna al suo posto, gli enigmi si risolvono e, troppo presto, si arriva alla conclusione. Giunti all’ultima pagina si vorrà rileggere tutto daccapo, per chiudere il cerchio, per riscoprire tutti i segreti e i significati profondi, ma soprattutto per ritardare il più possibile il distacco dai meravigliosi personaggi che ci hanno accompagnato per così tanto tempo e che non hanno ancora smesso di incantarci."
+    },
+    {
+        "id": 145,
+        "titre": "Le Pacte des Marchombres, tome 3 : Ellana : La prophétie",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ellana3.jpeg",
+        "mots_cles": [
+            "Ellana",
+            "fantasy",
+            "magie",
+            "ewilan",
+            "marchombre",
+            "jilano",
+            "mercenaires du chaos",
+            "nillem"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "Les années ont passé. Ellana a rejoint Ewilan, Salim et Edwin. Marchombre accomplie, elle accompagne Salim sur la voie. Alors qu'elle croit avoir enfin trouvé l'amour auprès d'Edwin, les démons du passé ressurgissent.\nS'appuyant sur une antique prophétie, les mercenaires du Chaos menacent la guilde. Et les êtres qui sont chers à Ellana disparaissent un à un...<br>\nDans Ellana la prophétie se joue la conclusion de l'aventure, dans une apothéose où chaque question trouve une réponse, l'intrigue son aboutissement et les protagonistes leur accomplissement."
+    },
+    {
+        "id": 146,
+        "titre": "La Quête d'Ewilan, tome 1 : D'un monde à l'autre",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan1.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "La vie de Camille, adolescente surdouée, bascule le jour où elle pénètre accidentellement dans un univers parallèle, nommé Gwendalavir. Elle ignore tout de ce monde où, pourtant, on semble la reconnaître sous le nom d’Ewilan. Accompagnée dans sa quête par son ami Salim, elle réalise qu’elle possède un don prodigieux et que tout un peuple l’attendait pour reconquérir sa liberté et sa dignité. Camille doit vite apprendre à maîtriser son pouvoir, l’art du Dessin…"
+    },
+    {
+        "id": 147,
+        "titre": "La Quête d'Ewilan, tome 2 : Les frontières de glace",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan2.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "En Gwendalavir, Ewilan et Salim partent avec leurs compagnons aux abords des Frontières de Glace pour libérer les Sentinelles garantes de la paix. Ils repoussent en chemin les attaques de guerriers cochons, d'ogres et de mercenaires du Chaos, résolus avec les Ts'liches à tuer Ewilan, mais se découvrent un peuple allié : les Faëls.<br>\nSalim se lie d'amitié avec une marchombre aux pouvoirs fascinants, tandis qu'Ewilan assoit son autorité et affermit son Don. Mais pour prétendre délivrer les Sentinelles, elle devra d'abord percer le secret du Dragon."
+    },
+    {
+        "id": 148,
+        "titre": "La Quête d'Ewilan, tome 3 : L'île du destin",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan3.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "Les Sentinelles libérées, Ewilan et Salim rejoignent la Citadelle des Frontaliers avec leurs compagnons. Là, Ewilan découvre la retraite du légendaire Merwyn, le plus grand des dessinateurs. Il leur conseille de regagner l'autre monde et de convaincre Mathieu, le frère d'Ewilan, de les suivre en Gwendalavir. À leur retour avec lui, la troupe embarque pour les îles Alines où les parents d'Ewilan sont détenus par la traîtresse Eléa Ril' Morienval. Mais des pirates les pourchassent. Ewilan parviendra-t-elle à mener sa quête jusqu'au bout ?"
+    },
+    {
+        "id": 149,
+        "titre": "Les mondes d'Ewilan, tome 1 : La forêt des captifs",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan4.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "Tandis que ses parents explorent des territoires sauvages de l'autre monde, Ewilan se retrouve prisonnière sur Terre d'une sinistre Institution. Au cœur de ce laboratoire clandestin, la Sentinelle félonne Eléa Ril' Morienval fomente son retour en Gwendalavir qu'elle cherche plus que jamais à conquérir. Réduite à l'impuissance par de terribles expériences, Ewilan ne peut compter que sur le courage de Salim pour s’échapper."
+    },
+    {
+        "id": 150,
+        "titre": "Les mondes d'Ewilan, tome 2 : L'oeil d'Otolep",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan5.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "À Gwendalavir, Ewilan se prépare à partir pour Valingaï afin de rendre Illian à sa famille et retrouver les siens. Avec Liven, apprenti dessinateur, elle découvre qu’une méduse aux tentacules mortels tente de bloquer l’accès à l’Imagination. Peu à peu, un mal sourd infecte l’organisme d’Ewilan.<br>\nElle se joint néanmoins à l’expédition, soutenue par Salim et Ellana. Après avoir repoussé des attaques, la troupe parvient aux confins de l’Empire devant l’Œil d’Otolep.<br>\nCe lac mythique délivrera-t-il Ewilan du parasite mortel qui lui a été inoculé à l’Institution ?"
+    },
+    {
+        "id": 151,
+        "titre": "Les mondes d'Ewilan, tome 3 : Les tentacules du mal",
+        "auteur": "Pierre Bottero",
+        "emplacement": "",
+        "image": "images/ewilan6.jpeg",
+        "mots_cles": [
+            "Ewilan",
+            "fantasy",
+            "Gwendalavir",
+            "mondes",
+            "dessin",
+            "salim",
+            "magie",
+            "marchombres",
+            "mercenaires du chaos",
+            "ellana"
+        ],
+        "mention_speciale": true,
+        "avis": [],
+        "resume": "Ewilan et ses compagnons poursuivent leur périple vers Valingaï avec une triple mission: rendre Illian à sa famille, retrouver Altan et Élicia Gil’ Sayan et anéantir la méduse qui s’étend dans l’Imagination. Ils traversent avec difficulté le désert Ourou et gagnent Hurindaï, une cité qui ne tarde pas à être attaquée et détruite par les armées de Valingaï. Les Alaviriens échappent de peu à la mort et reprennent leur voyage.<br>\nC’est à Valingaï, sur le sable des arènes, que le destin d’Ewilan, celui de ses amis, d’Éléa Ril’ Morienval et de la méduse, se croiseront une dernière fois dans une confrontation sans pitié. Une confrontation où la lumière sera faite sur le passé et où se jouera l’avenir du monde."
     }
 ]
