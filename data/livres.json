@@ -772,13 +772,13 @@
         ],
         "mention_speciale": false,
         "avis": [],
-        "resume": "Susan Calvin est robopsychologue à l'United States Robots, Inc. Née en 1982, elle a aujourd'hui 75 ans. Ce livre relate ses souvenirs sur l'évolution du robot dans l'histoire humaine, depuis Robbie qui, en 1996, fut vendu comme bonne d'enfants jusqu'à Byerley qui devient président de la Fédération mondiale terrestre en 2044.<br>\nA travers ces récits, on voit comment le robot, d'abord esclave soumis à l'homme, parvient peu à peu à être son égal, avant de devenir son maître.\nLes souvenirs du Dr Calvin forment un livre au charme désuet qui fait revivre l'aube du XXIème siècle, époque où l'homme existait encore indépendamment de son compagnon de métal, le robot."
+        "resume": "Susan Calvin est robopsychologue à l'United States Robots, Inc. Née en 1982, elle a aujourd'hui 75 ans. Ce livre relate ses souvenirs sur l'évolution du robot dans l'histoire humaine, depuis Robbie qui, en 1996, fut vendu comme bonne d'enfants jusqu'à Byerley qui devient président de la Fédération mondiale terrestre en 2044.<br>\nA travers ces récits, on voit comment le robot, d'abord esclave soumis à l'homme, parvient peu à peu à être son égal, avant de devenir son maître.\nLes souvenirs du Dr Calvin forment un livre au charme désuet qui fait revivre l'aube du XXIème siècle, époque où l'homme existait encore indépendamment de son compagnon de métal, le robot. <br>Merci à Émile qui m'a offert ce livre pour mes 16 ans."
     },
     {
         "id": 41,
         "titre": "Un monde sauvage",
         "auteur": "Xavier-Laurent Petit ",
-        "emplacement": "je sais pas",
+        "emplacement": "",
         "image": "images/mondesauvage.jpeg",
         "mots_cles": [
             "tigre",
@@ -915,10 +915,10 @@
         "emplacement": "Langues",
         "image": "images/il colombre.jpeg",
         "mots_cles": [
-            "le K",
             "italien",
             "histoires",
-            "nouvelles"
+            "nouvelles",
+            "le K"
         ],
         "mention_speciale": false,
         "avis": [],
@@ -1148,7 +1148,7 @@
         "id": 59,
         "titre": "Overlord, 6 juin 1944",
         "auteur": "Serge Saint-Michel",
-        "emplacement": "",
+        "emplacement": "BD",
         "image": "images/sixjuin.jpeg",
         "mots_cles": [
             "débarquement",
@@ -2157,10 +2157,11 @@
         "emplacement": "",
         "image": "images/LeK.jpeg",
         "mots_cles": [
+            "Le K",
             "nouvelles",
             "colombre"
         ],
-        "mention_speciale": true,
+        "mention_speciale": false,
         "avis": [],
         "resume": "Le K ouvre un recueil de 50 contes fantastiques où l'on retrouve tous les thèmes poignants et familiers de Dino Buzzati : la fuite des jours, la fatalité de notre condition de mortels, l'angoisse du néant, l'échec de toute vie, le mystère de la souffrance et du mal.\nAutant d'histoires merveilleuses, tristes ou inquiétantes pour traduire la réalité vécue de ce qui est par nature incommunicable."
     },
@@ -2870,5 +2871,368 @@
         "mention_speciale": true,
         "avis": [],
         "resume": "Ewilan et ses compagnons poursuivent leur périple vers Valingaï avec une triple mission: rendre Illian à sa famille, retrouver Altan et Élicia Gil’ Sayan et anéantir la méduse qui s’étend dans l’Imagination. Ils traversent avec difficulté le désert Ourou et gagnent Hurindaï, une cité qui ne tarde pas à être attaquée et détruite par les armées de Valingaï. Les Alaviriens échappent de peu à la mort et reprennent leur voyage.<br>\nC’est à Valingaï, sur le sable des arènes, que le destin d’Ewilan, celui de ses amis, d’Éléa Ril’ Morienval et de la méduse, se croiseront une dernière fois dans une confrontation sans pitié. Une confrontation où la lumière sera faite sur le passé et où se jouera l’avenir du monde."
+    },
+    {
+        "id": 152,
+        "titre": "Méto, tome 1 : La maison",
+        "auteur": "Yves Grevet",
+        "emplacement": "",
+        "image": "images/meto1.jpeg",
+        "mots_cles": [
+            "meto",
+            "maison",
+            "dystopie",
+            "enfants"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Soixante-quatre enfants vivent coupés du monde, dans une grande maison. Chacun d'eux sait qu'il devra en partir lorsqu'il aura trop grandi. Mais qu'y a-t-il après la Maison ?"
+    },
+    {
+        "id": 153,
+        "titre": "\nMéto, tome 2 : L'île",
+        "auteur": "Yves Grevet",
+        "emplacement": "",
+        "image": "images/meto2.jpeg",
+        "mots_cles": [
+            "meto",
+            "maison",
+            "dystopie",
+            "enfants"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Méto et ses camarades ont enfin franchi les portes de la Maison, livrant un combat terrible pour leur liberté.\nMéto est grièvement blessé lors de la bataille... Lorsqu'il se réveille, il se rend compte que ses paupières ont été collées et qu'il est entravé à un lit. Où est-il ? Et ses amis, sont-ils encore en vie ?...\nLe deuxième tome de l'époustouflante trilogie d'Yves Grevet."
+    },
+    {
+        "id": 154,
+        "titre": "Méto, tome 3 : Le monde",
+        "auteur": "Yves Grevet",
+        "emplacement": "",
+        "image": "images/meto3.jpeg",
+        "mots_cles": [
+            "meto",
+            "maison",
+            "dystopie",
+            "enfants"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "De retour à la maison, Méto doit se faire une raison. Considéré aux yeux de tous comme un traître, il est seul... Par chance, il parvient à entrer dans une grande demeure tenue secrète, un lieu réservé aux membres du groupe E, une élite chargée d'effectuer des missions sur le continent, loin de l'île..."
+    },
+    {
+        "id": 155,
+        "titre": "Les Royaumes de Feu, tome 1 : La Prophétie",
+        "auteur": "Tui T. Sutherland",
+        "emplacement": "",
+        "image": "images/royaumedefeu1.jpeg",
+        "mots_cles": [
+            "dragons",
+            "dragonnets",
+            "pyrrhia",
+            "argil",
+            "tsunami",
+            "gloria",
+            "sunny",
+            "comète",
+            "guerre"
+        ],
+        "mention_speciale": false,
+        "avis": [
+            "Une histoire vraiment sympa qui relate l’histoire de 5 jeunes dragons qui doivent réaliser une prophétie. Il y a plusieurs types de dragons qui ont chacun une particularité qu’on peut lire et observer à travers les dessins et les notes au début du livre avant le récit. Impossible de s’ennuyer avec toutes les aventures qui arrivent aux dragonnets attachants. Dans ce tome 1, on découvre les 5 personnages qui essayent de sortir d’une grotte dans laquelle ils sont enfermés depuis leur naissance. Il y a en tout 5 tomes qui sont présents dans notre bibliothèque donc pas d’excuse pour ne pas lire la suite qui est tout aussi bien, les 5 premiers tomes en tout cas, après ça devient n’importe quoi. Par contre, on en parle que certains des personnages ont des pouvoirs bien plus abusés que d’autres ? Franchement Sunny, elle est un peu éclatée face à Gloria qui a clairement le meilleur pouvoir."
+        ],
+        "resume": "Une terrible guerre divise les royaumes du monde de Pyrrhia. Selon une mystérieuse prophétie, seuls cinq jeunes dragons nés lors de la Nuit-la-plus-Claire pourront mettre fin aux combats et apporter la paix. Mais les élus, Argil, Tsunami, Gloria, Comète et Sunny, rêvent de voler de leurs propres ailes plutôt que d'accomplir leur destin..."
+    },
+    {
+        "id": 156,
+        "titre": "Les Royaumes de Feu, tome 2 : La Princesse disparue",
+        "auteur": "Tui T. Sutherland",
+        "emplacement": "",
+        "image": "images/royaumedefeu2.jpeg",
+        "mots_cles": [
+            "dragons",
+            "dragonnets",
+            "pyrrhia",
+            "argil",
+            "tsunami",
+            "gloria",
+            "sunny",
+            "comète",
+            "guerre"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Tsunami la dragonnette découvre son royaume, le fabuleux monde aquatique des Ailes de Mer. La jeune princesse y rencontre pour la première fois sa mère, la reine Corail. Mais son bonheur est de courte durée. Elle se retrouve au cœur des pires intrigues de palais et se fait un ennemi mortel. Avec ses amis les Dragonnets du Destin, Tsunami devra éviter mille pièges et rendre coup pour coup."
+    },
+    {
+        "id": 157,
+        "titre": "Les Royaumes de Feu, tome 3 : Au coeur de la jungle",
+        "auteur": "Tui T. Sutherland",
+        "emplacement": "",
+        "image": "images/royaumedefeu3.jpeg",
+        "mots_cles": [
+            "dragons",
+            "dragonnets",
+            "pyrrhia",
+            "argil",
+            "tsunami",
+            "gloria",
+            "sunny",
+            "comète",
+            "guerre"
+        ],
+        "mention_speciale": false,
+        "avis": [
+            "À acheter absolument!"
+        ],
+        "resume": "En pénétrant dans la luxuriante forêt multicolore du Royaume de Pluie, les Dragonnets du Destin espéraient trouver un répit - les lieux ont la réputation d'être pacifiques autant que splendides. Mais rien ne se passe comme prévu : menace d'une mystérieuse créature, disparition de dragons... Gloria décide de passer à l'action. Accompagnée de ses amis, elle s'enfonce dans la jungle... et se retrouve en plein territoire ennemi !"
+    },
+    {
+        "id": 158,
+        "titre": "Les Royaumes de Feu, tome 4 : L'île au secret",
+        "auteur": "Tui T. Sutherland",
+        "emplacement": "",
+        "image": "images/royaumedefeu4.jpeg",
+        "mots_cles": [
+            "dragons",
+            "dragonnets",
+            "pyrrhia",
+            "argil",
+            "tsunami",
+            "gloria",
+            "sunny",
+            "comète",
+            "guerre"
+        ],
+        "mention_speciale": false,
+        "avis": [
+            "À acheter absolument!"
+        ],
+        "resume": "Comète, capturé par son clan, se retrouve prisonnier dans le sombre et rocheux royaume de Nuit. Il découvre avec consternation le comportement odieux des Ailes de Nuit, ainsi que leurs plans sinistres concernant le royaume de Pluie. Comète doit prévenir ses amis, les autres Dragonnets du Destin. Mais comment jouer les héros quand on est froussard et isolé sur une île volcanique ? Le sort de deux royaumes est entre ses griffes !"
+    },
+    {
+        "id": 159,
+        "titre": "Les Royaumes de Feu, tome 5 : La Nuit la Plus Claire",
+        "auteur": "Tui T. Sutherland",
+        "emplacement": "",
+        "image": "images/royaumedefeu5.jpeg",
+        "mots_cles": [
+            "dragons",
+            "dragonnets",
+            "pyrrhia",
+            "argil",
+            "tsunami",
+            "gloria",
+            "sunny",
+            "comète",
+            "guerre"
+        ],
+        "mention_speciale": false,
+        "avis": [
+            "À acheter absolument!"
+        ],
+        "resume": "Le final grandiose du premier cycle des Royaumes de Feu. Sunny est effondrée : un Aile de Nuit a affirmé que la prophétie était fausse et que les Dragonnets du Destin ne pourraient jamais mettre fin à la guerre. Pourtant, la petite Aile de Sable refuse de renoncer et cherche à convaincre ses amis de poursuivre leur lutte pour la paix. Comme d'habitude, personne ne la prend au sérieux. C'est donc seule que Sunny affronte sa destinée. Mais une dragonnette naïve a-t-elle la moindre chance face aux pièges des sables mouvants et à des adversaires sans pitié ?"
+    },
+    {
+        "id": 160,
+        "titre": "Le Seigneur des Anneaux, tome 1 : La fraternité de l'anneau",
+        "auteur": "J.R.R. Tolkien",
+        "emplacement": "",
+        "image": "images/seigneurdesanneaux1.jpeg",
+        "mots_cles": [
+            "trilogie",
+            "hobbits",
+            "fantasy",
+            "gandalf",
+            "frodo",
+            "sam",
+            "aragorn",
+            "legolas",
+            "gollum",
+            "sauron",
+            "boromir",
+            "anneau",
+            "quête"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "J.R.R. TolkienAux temps reculés de ce récit, la Terre est peuplée d'innombrables créatures : les Hobbits, apparentés à l'Homme, les Elfes et les Nains vivent en paix. Une paix menacée depuis que l'Anneau de Pouvoir, forgé par Sauron de Mordor, a été dérobé. Or cet anneau est doté d'un pouvoir maléfique qui confère à son détenteur une autorité sans limite et fait de lui le Maître du monde. Sauron s'est donc juré de le reconquérir..."
+    },
+    {
+        "id": 161,
+        "titre": "Le Seigneur des Anneaux, tome 2 : Les deux tours ",
+        "auteur": "J.R.R. Tolkien",
+        "emplacement": "",
+        "image": "images/seigneurdesanneaux2.jpeg",
+        "mots_cles": [
+            "trilogie",
+            "hobbits",
+            "fantasy",
+            "gandalf",
+            "frodo",
+            "sam",
+            "aragorn",
+            "legolas",
+            "gollum",
+            "sauron",
+            "boromir",
+            "anneau",
+            "quête"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Dispersée dans les terres de l'Ouest, la Communauté de l'Anneau affronte les périls de la guerre, tandis que Frodon, accompagné du fidèle Sam, poursuit une quête presque désespérée : détruire l'Anneau, unique en le jetant dans les crevasses d'Oradruir, a Montagne du destin. Mais aux frontières du royaume de Mordor, une mystérieuse créature les épie... Pour les perdre ou pour les sauver ?"
+    },
+    {
+        "id": 162,
+        "titre": "Le Seigneur des Anneaux, tome 3 : Le retour du roi",
+        "auteur": "J.R.R. Tolkien",
+        "emplacement": "",
+        "image": "images/seigneurdesanneaux3.jpeg",
+        "mots_cles": [
+            "trilogie",
+            "hobbits",
+            "fantasy",
+            "gandalf",
+            "frodo",
+            "sam",
+            "aragorn",
+            "legolas",
+            "gollum",
+            "sauron",
+            "boromir",
+            "anneau",
+            "quête"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Tandis que le continent se couvre de ténèbres, annonçant pour le peuple des Hobbits l'aube d'une nouvelle ère, Frodon poursuit son entreprise : il lui faut à tout prix atteindre le Mont du Destin. Mais le seigneur des Ténèbres mobilise ses troupes. L'ennemi est partout et Frodon doit s'engager dans un dangereux périple à travers le Pays Noir..."
+    },
+    {
+        "id": 163,
+        "titre": "L'explorateur",
+        "auteur": "Katherine Rundell",
+        "emplacement": "",
+        "image": "images/lexplorateur.jpeg",
+        "mots_cles": [
+            "explorateur",
+            "forêt amazonienne",
+            "jungle",
+            "sauvage",
+            "survie",
+            "enfants",
+            "avion"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Depuis son siège à bord d'un petit avion, Fred observe la mystérieuse forêt amazonienne s'étendre à perte de vue. Il rêve de devenir explorateur, de voir son nom figurer parmi ceux des grands aventuriers.\nQuand l'avion percute la cime des arbres, Fred se retrouve seul, au cœur de la jungle immense et sauvage, avec trois autres enfants, Connie, Max et Lila. Quelles sont leurs chances de survie si personne n'est à leur recherche ? Ils ont pourtant le sentiment d'une présence. Quelqu'un était-il là avant eux ?"
+    },
+    {
+        "id": 164,
+        "titre": "L'escamoteur",
+        "auteur": "Sébastien Goethals\n et Philippe Collin",
+        "emplacement": "BD",
+        "image": "images/lescamoteur.jpeg",
+        "mots_cles": [
+            "Gabriel Chahine",
+            "extrême gauche",
+            "années de plomb"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Dans ce polar historique, les auteurs du Voyage de Marcel Grob et de la Patrie des frères Werner vous plongent dans les années de plomb en France. Ils retracent une histoire d’Action Directe, en remontant des pistes familiales encore vives et en rencontrant les témoins."
+    },
+    {
+        "id": 165,
+        "titre": "Les Guerres de Lucas",
+        "auteur": "Renaud Roche et Laurent Hopman",
+        "emplacement": "BD",
+        "image": "images/guerreslucas.jpeg",
+        "mots_cles": [
+            "star wars",
+            "luke skywalker",
+            "john williams",
+            "han solo",
+            "leia"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Scrupuleusement fidèle à la réalité historique, méticuleusement documenté, Les Guerres de Lucas met en scène l’invraisemblable épopée de George Lucas, enfant rebelle passé à côté de la mort, prodige du nouvel Hollywood et visionnaire indomptable.<br>\nUne exploration inédite des coulisses de Star Wars, de l’enfer du casting au tournage cauchemardesque, où querelles entre acteurs, histoire d’amour secrète et désastres en pagaille jalonnent le quotidien. Un bourbier gigantesque dont sortira pourtant une œuvre majeure qui changera à jamais le cinéma."
+    },
+    {
+        "id": 166,
+        "titre": "Un secret à la fenêtre",
+        "auteur": "Norma Huidobro",
+        "emplacement": "",
+        "image": "images/secretfenetre.jpeg",
+        "mots_cles": [
+            "timbres",
+            "enquêtes",
+            "meurtre",
+            "pizzeria"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Manuel est sous le choc : don Mauricio s'est donné la mort.<br>\nPourtant, Manuel refuse de croire à un suicide. Le vieil homme était trop attaché aux petits plaisirs de la vie. Sans oublier sa grande passion : sa collection de timbres, qu'il aimait montrer à Manuel. Don Mauricio a été assassiné. Manuel n'en doute pas une seconde, car le timbre le plus rare et le plus précieux de don Mauricio, la Dame d'Elche, a mystérieusement disparu... Qui est le coupable ? Est-ce Etelvina, la dance qui venait faire la cuisine et le ménage chez don Mauricio ? Et puis, qui est cet étrange touriste allemand qui s'est installé dans son appartement ? Tant pis si personne n'est de son avis, Manuel est bien décidé à mener seul l'enquête."
+    },
+    {
+        "id": 167,
+        "titre": "Sacrées sorcières",
+        "auteur": "Roald Dahl",
+        "emplacement": "",
+        "image": "images/sacreessorcieres.jpeg",
+        "mots_cles": [
+            "sorcières"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Ah ! Si les sorcières portaient vraiment de grandes robes noires, des chapeaux pointus, une verrue sur le nez et qu'elles se promenaient sur des balais magiques, les choses seraient tellement plus simples !\nLa réalité est beaucoup moins folklorique et beaucoup plus inquiétante, Roald Dahl nous l'apprend : les sorcières sont pratiquement impossibles à identifier dans une foule.\nSeuls de petits signes peuvent les trahir et il vaut mieux les connaître, car les sorcières n'ont qu'un but: éliminer les enfants qu'elles détestent !\nLorsque notre jeune héros se retrouve bien malgré lui caché dans une pièce où les sorcières tiennent leur congrès annuel, les choses risquent de mal tourner...\nOn s'amuse vraiment beaucoup à suivre les tribulations de ce petit garçon et de sa grand-mère, bien décidés à lutter contre ces vilaines femmes qui ne rêvent que de transformer tous les enfants en souris.<br>\nDe frissons en éclats de rire, on leur emboîte le pas, tenu en haleine par un vrai suspense. Où l'on retrouve toute la fantaisie de Roald Dahl dans l'un de ses sujets favoris : les grandes personnes n'aiment pas forcément les enfants, mais ne sont pas toujours les plus fortes. Et la méchanceté est punie. Na !"
+    },
+    {
+        "id": 168,
+        "titre": "Dictionnaire Anglais/Français",
+        "auteur": "",
+        "emplacement": "Langues",
+        "image": "images/dicoanglais.jpeg",
+        "mots_cles": [
+            "dictionnaire",
+            "langues",
+            "anglais"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": ""
+    },
+    {
+        "id": 169,
+        "titre": "Dictionnaire Italien/Français",
+        "auteur": "",
+        "emplacement": "Langues",
+        "image": "images/dicoitalien.jpeg",
+        "mots_cles": [
+            "dictionnaire",
+            "langues",
+            "italien"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": ""
+    },
+    {
+        "id": 170,
+        "titre": "Code pénal (édition limitée 2021)",
+        "auteur": "",
+        "emplacement": "",
+        "image": "images/codepenal.jpeg",
+        "mots_cles": [
+            "loi",
+            "lois",
+            "France",
+            "règles",
+            "droits"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Quelques petits passages à apprendre par cœur pour faire le malin dans la cour de récré."
     }
 ]
