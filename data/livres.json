@@ -3237,5 +3237,131 @@
         "mention_speciale": false,
         "avis": [],
         "resume": "Quelques petits passages à apprendre par cœur pour faire le malin dans la cour de récré."
+    },
+    {
+        "id": 171,
+        "titre": "Dans la peau des Serpents de France",
+        "auteur": "Françoise Serre Collet",
+        "emplacement": "",
+        "image": "images/serpents.jpg",
+        "mots_cles": [
+            "serpents",
+            "vipères",
+            "couleuvres",
+            "morsure",
+            "animaux"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Il était temps de faire découvrir au grand public la beauté des serpents de France, tout aussi fascinants que leurs cousins exotiques.<br>\nCe livre nous initie à leurs particularités biologiques et à la diversité morphologique des 4 vipères et 10 couleuvres vivant sur le territoire métropolitain. Il nous offre d’exceptionnels instantanés : processus de mue, séquences de prédation, de naissance et d’éclosion, scènes de combats prénuptiaux, et même... simulation de mort en guise de technique antiprédation !<br>\nEmblèmes de la vie sauvage, ces animaux aux mœurs méconnues paient un lourd tribut aux croyances absurdes. Des études scientifiques, conjointes aux actions d’associations, permettent de mieux les faire connaître et d’organiser leur sauvegarde, 4 espèces étant menacées et 7 en baisse d’effectifs. Les quelque 220 photos de cet ouvrage, prises sur le vif en respectant leurs conditions de vie dans la nature, plaident en faveur de ces bêtes splendides, patrimoine de notre biodiversité. Cette « galerie » d’images reflète la passion de l’auteure, qui consacre aux serpents de nombreuses observations sur le terrain et qui divulgue largement ses connaissances au travers de conférences, d’animations pédagogiques et d’expositions de photographies animalières."
+    },
+    {
+        "id": 172,
+        "titre": "Greffer facilement",
+        "auteur": "Dominique Cousin",
+        "emplacement": "",
+        "image": "images/greffe.jpg",
+        "mots_cles": [
+            "greffe",
+            "greffage",
+            "fruitiers",
+            "arbres",
+            "jardinage",
+            "porte-greffe",
+            "greffon"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Toutes les techniques et les astuces pour greffer facilement :<br>\n \n- Les arbres fruitiers : pommiers, poiriers, cerisiers, pêchers, amandiers...<br>\n\n- Les arbres et arbustes ornementaux les plus intéressants pour l'amateur : rosiers, érables du Japon, pivoines arbustives, hamamélis, cerisiers japonais, magnolias, lilas...<br>\n- Et les meilleures époques."
+    },
+    {
+        "id": 173,
+        "titre": "Déshydrater les aliments chez soi - conseils et instructions étape par étape",
+        "auteur": "Michelle Keogh",
+        "emplacement": "",
+        "image": "images/deshydrater.jpg",
+        "mots_cles": [
+            "déshydratation",
+            "deshydratation",
+            "deshydrater",
+            "séchage",
+            "conservation",
+            "nourriture",
+            "fruits"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Ce manuel pratique vous permettra de transformer des denrées périssables - fruits, légumes, viandes, herbes, graines - en un vivier de nourriture préservée. Les jardiniers y trouveront la solution idéale pour conserver leur surplus de production dans les meilleures conditions et les gourmands se régaleront des 100 délicieuses recettes proposées (pour une cuisine traditionnelle ou dans le cadre d'un régime alimentaire cru ou sans gluten).<br>\nDéshydrater des aliments chez soi est la plus savoureuse façon de rester en bonne santé. Le mécanisme est simple : un déshydrateur élimine l'eau des aliments grâce à une douce chaleur ventilée. Ainsi, les saveurs se marient tout en s'intensifiant et toutes les qualités nutritives sont garanties. Conseils avisés et instructions étape par étape (préparation, température, conservation) vous assurent un résultat parfait, dès la première fois. Les techniques de déshydratation à l'aide d'un four traditionnel sont également abordées.<br>\nEn s'appuyant sur de nombreuses photos, chaque chapitre est centré sur un savoir-faire particulier, depuis le séchage de simples fruits et légumes jusqu'à la création de viande séchée savoureuse, en passant par la déshydratation des graines, la réalisation de repas et desserts crus, sans oublier les friandises santé pour vos animaux de compagnie. Vous découvrirez que la technique s'applique également à la préparation des aliments (faire lever une pâte à pain, déshydrater les pâtes) ou à divers usages domestiques (préparation d'un pot-pourri, exfoliant pour le corps). Avec ce manuel, il devient facile de mettre en oeuvre une alternative aux produits industriels, tout en faisant des économies et en sauvegardant le goût et la richesse des aliments vivants."
+    },
+    {
+        "id": 174,
+        "titre": "Mon premier chat",
+        "auteur": "Arden Moore",
+        "emplacement": "",
+        "image": "images/chat.jpg",
+        "mots_cles": [
+            "animal",
+            "animaux",
+            "chat",
+            "chatte",
+            "chaton"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Quelques informations et conseils sur les chats."
+    },
+    {
+        "id": 175,
+        "titre": "Le jardin forêt en pratique: Produire en abondance sans trop d'efforts",
+        "auteur": "Rémi Kulik",
+        "emplacement": "",
+        "image": "images/kulik.jpg",
+        "mots_cles": [
+            "rémi",
+            "kulik",
+            "jardin-forêt",
+            "jardin forêt",
+            "foret comestible",
+            "forêt",
+            "agroforesterie",
+            "autonomie",
+            "jardinage"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "Ce second ouvrage de Rémi Kulik propose de passer de la théorie à la pratique. L’auteur nous invite à créer un jardin-forêt hyper productif en un minimum de temps et d’efforts. Pour ce faire, il nous partage ses techniques de production et de fertilisation, ses méthodes d’organisation, ses petites astuces, mais aussi une douzaine d’aménagements à reproduire ou à adapter chez nous."
+    },
+    {
+        "id": 176,
+        "titre": "Les Forêts\n<br>Balade à travers les forêts du monde entier ",
+        "auteur": "Kieron Connolly",
+        "emplacement": "",
+        "image": "images/lesforets.jpg",
+        "mots_cles": [
+            "foret",
+            "forêt",
+            "arbres",
+            "balade",
+            "joli"
+        ],
+        "mention_speciale": false,
+        "avis": [
+            "Un joli livre avec de belles images qui font rêver."
+        ],
+        "resume": "On compte environ 3 billions d’arbres sur Terre, parmi lesquels une multitude d’espèces aux silhouettes variées : chênes verts des forêts méditerranéennes, séquoias géants d’Amériques du Nord, forêt de chênes-liège de Tunisie, eucalyptus arc-en-ciel d’Hawaï…<br>\n\nFruit d’une ample recherche et d’une documentation minutieuse, ce livre qui parcourt les cinq continents, vous emmène dans un périple entre racines et canopée. \nDes Alpes italiennes aux forêts de Nouvelle-Zélande, vous y découvrez les arbres tels que vous ne les avez jamais vus.<br>\n\nGrâce à des photographies majestueuses, aux couleurs saisissantes, vous vous laisserez surprendre par une atmosphère enchanteresse. Comme en Belgique, dans le Bois de Hal, dont le sol recouvert de jacinthes des bois évoque un paysage de conte de fée, ou dans la Vallée de Jiuzhaigou, dans le Sichuan, en Chine : l’eau bleu turquoise de ses 100 lacs y côtoie les teintes vertes et jaunes des forêts qui les bordent.<br>\n\nTelle la promesse d’un avenir meilleur, à l’heure où les forêts sont de plus en plus indispensables à notre survie, ce beau livre vous emmène à la découverte de leurs écosystèmes fragiles, dans lesquels l’homme pourrait avoir un rôle plus amical."
+    },
+    {
+        "id": 177,
+        "titre": "Atlas inutile de Paris",
+        "auteur": "Vincent Périat",
+        "emplacement": "",
+        "image": "images/atlasparis.jpg",
+        "mots_cles": [
+            "carte",
+            "ville"
+        ],
+        "mention_speciale": false,
+        "avis": [],
+        "resume": "À l'origine, il y a Paris. Et un flâneur infatigable qui explore ses deux rives depuis des années. De cette expérience amoureuse, il a distillé au fil des jours 100 cartes incongrues. 100 cartes pour dire tout ce qu'on ne sait pas. 100 cartes pour rêver tout ce qu'on ne voit pas.<br>\n\nÀ l'origine, il y a Paris. Et un flâneur infatigable qui explore ses deux rives depuis des années. De cette expérience amoureuse, il a distillé au fil des jours 100 cartes incongrues. Sur chacune se dessine une vision : on y découvre ainsi toutes les rues depuis lesquelles on peut apercevoir la Tour Eiffel, celles où les barricades avaient été installées lors de la Commune de 1871, les quartiers définis selon la provenance de l'eau dans votre robinet, les îles disparues que l'on trouvait autrefois sur la Seine, le trajet du premier vol habité (en montgolfière)..."
     }
 ]
